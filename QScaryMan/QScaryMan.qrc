@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QScaryMan">
+        <file alias="scarymanicon">Resources/scarymanicon.png</file>
+    </qresource>
+</RCC>
